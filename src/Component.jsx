@@ -3,14 +3,17 @@ import "./Component.css";
 import Iphone15pro from "./img/Iphone15.jpg";
 const Cum = () => {
   const [count, setcount] = useState(140990.0);
+  const [qty, setqty] = useState();
   const click = () => {
     setcount(count + 140990.0);
-    
+  };
+  const Delete = () => {
+    setcount(count - 140990.0);
+  };
+  const Quantity=()=>{
+    setqty(qty)
   }
-  const Delete = ()=>{
-    setcount(count- 140990.0 )
-      }
-  
+
   return (
     <>
       <div className="container">
@@ -31,21 +34,20 @@ const Cum = () => {
         <button className="btnp" onClick={click}>
           Qty :
         </button>
-        <button type="button" className="btn bg-warning" onClick={Delete}>Delete</button>
-      <form action="">
-        <label htmlFor=""> Qty :</label>
-<select name="Qty" id="" onChange={click} >
-<option value="1">1</option>
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
+        <button type="button" className="btn bg-warning" onClick={Delete}>
+          Delete
+        </button>
+        <form action="">
+          <label htmlFor=""> Qty :</label>
+          <select name="Qty" id="" onChange={click}>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+          </select>
+        </form>
 
-</select>
-      </form>
-
-
-
-<option/>
+        <option />
         <hr />
       </div>
     </>
