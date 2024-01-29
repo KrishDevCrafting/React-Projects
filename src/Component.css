@@ -1,0 +1,45 @@
+/* .container {
+  display: flex;
+} */
+
+p {
+  display: inline-block;
+}
+
+.btnp {
+  padding: 5px 40px 5px 40px;
+  border-radius: 15px 15px 15px 15px;
+  background-color: #3333;
+  position: relative;
+  top: 70px;
+  left: 800px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.Value {
+  color: red;
+  position: relative;
+  top: 70px;
+  left: 750px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.num {
+  position: relative;
+  left: 78%;
+  bottom: 110px;
+  font-weight: 600;
+}
+.text2 {
+  position: absolute;
+  top: 150px;
+  left: 280px;
+}
+li {
+  list-style: none;
+}
+.stock {
+  color: green;
+}
