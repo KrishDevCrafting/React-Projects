@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 const ShoppingCart = () => {
   const [cartItems, setCartItems] = useState([]);
-
+// sagasg
   const addToCart = (item) => {
     const existingItem = cartItems.find((cartItem) => cartItem.id === item.id);
     if (existingItem) {
