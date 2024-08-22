@@ -1,0 +1,32 @@
+.main{
+    background-image: url(./img/wp6059194-4k-for-pc-wallpapers-Login.jpg); 
+    background-position: center;
+    background-size: cover;
+    height: 100vh   ;
+}
+form{
+    padding: 40px 50px;
+    width: 35%;
+    position: relative;
+    top: 29%;
+    left: 10%;
+    border-radius: 25px;
+    border: 1px solid #fff;
+    background: #00000077;
+    transition: all 0.7s;
+}
+form:hover{
+    box-shadow: 2px 2px 10px #fff;
+    
+}
+.Fx label{
+    color: #fff;
+    margin: 4px auto;
+}
+/* singupform */
+.sin{
+    background-image: url(./img/wp12492637-4k-games-pc-wallpapers.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}

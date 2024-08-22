@@ -1,11 +1,29 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import LoginForm from "./Component/LoginAx";
+import DashComponent from "./Component/DashBoard";
+import SingUpForm from "./Component/SingupAx"
+// Or @react-navigation/core for web
 
-import Cum from "./Component";
+// Your app components
+
+import { BrowserRouter, Routes ,Route } from "react-router-dom";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <Cum />
+    <div>
+    <BrowserRouter>
+    <Routes>
+    <Route path="/" element={<LoginForm/>}/>
+
+      <Route path="/sign" element={<SingUpForm/>}/>
+      <Route path="/Dash" element={<DashComponent/>}/>
+
+      
+    </Routes>
+   
+    </BrowserRouter>
+    </div>
   </React.StrictMode>
 );
 

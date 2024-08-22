@@ -1,0 +1,171 @@
+{
+  "Empolyees": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 30,
+      "position": "Software Engineer",
+      "department": "Engineering"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "age": 28,
+      "position": "UI/UX Designer",
+      "department": "Design"
+    },
+    {
+      "id": "3",
+      "name": "Michael Johnson",
+      "age": 35,
+      "position": "Product Manager",
+      "department": "Product Management"
+    },
+    {
+      "id": "4",
+      "name": "Emily Brown",
+      "age": 32,
+      "position": "Marketing Specialist",
+      "department": "Marketing"
+    },
+    {
+      "id": "5",
+      "name": "David Lee",
+      "age": 33,
+      "position": "Data Scientist",
+      "department": "Data Science"
+    },
+    {
+      "id": "f6b6",
+      "name": "",
+      "email": "Akaansh@gmail.com",
+      "password": "Godofwar2004@"
+    },
+    {
+      "id": "2568",
+      "name": "krish namikaze",
+      "email": "krishkumer150@gmail.com",
+      "password": "sgg"
+    },
+    {
+      "id": "e8f1",
+      "name": "krish namikaze",
+      "email": "krishkumer150@gmail.com",
+      "password": "sgg"
+    },
+    {
+      "id": "f414",
+      "name": "",
+      "email": "krishgeek777@gmail.com",
+      "password": ""
+    },
+    {
+      "id": "284a",
+      "name": "",
+      "email": "krishgeek777@gmail.com",
+      "password": "asgsg"
+    },
+    {
+      "id": "654d",
+      "name": "",
+      "email": "krishgeek777@gmail.com",
+      "password": "asgsg"
+    },
+    {
+      "id": "92ff",
+      "name": "",
+      "email": "krishgeek777@gmail.com",
+      "password": "asgsg"
+    },
+    {
+      "id": "57c5",
+      "name": "",
+      "email": "krishgeek777@gmail.com",
+      "password": "asgsg"
+    },
+    {
+      "id": "d3c9",
+      "name": "",
+      "email": "krishgeek777@gmail.com",
+      "password": "asgsgsggg"
+    },
+    {
+      "id": "f6a1",
+      "name": "",
+      "email": "krishgeek777@gmail.com",
+      "password": "asgsgsggg"
+    },
+    {
+      "id": "1c80",
+      "name": "",
+      "email": "krishgeek777@gmail.com",
+      "password": "asgsgsggg"
+    },
+    {
+      "id": "2778",
+      "name": "",
+      "email": "krishgeek777@gmail.com",
+      "password": "asgsgsggg"
+    },
+    {
+      "id": "10c2",
+      "name": "",
+      "email": "krishgeek777@gmail.com",
+      "password": "asgsgsggg"
+    },
+    {
+      "id": "36f6",
+      "name": "cfbcb",
+      "email": "krishgeek777@gmail.com",
+      "password": "asgsgsggg"
+    },
+    {
+      "id": "decd",
+      "name": "Krish",
+      "email": "krishkumer150@gmail.com",
+      "password": "klhasghjbsjgbj"
+    },
+    {
+      "id": "2edc",
+      "name": "Krish",
+      "email": "krishkumer150@gmail.com",
+      "password": "klhasghjbsjgbj"
+    },
+    {
+      "id": "517b",
+      "name": "Good Bye World",
+      "email": "krishkumer150@gmail.com",
+      "password": "lkjasg"
+    },
+    {
+      "id": "78ee",
+      "name": "Javascript",
+      "email": "Java@gmail.com",
+      "password": "885599"
+    },
+    {
+      "id": "1155",
+      "name": "random",
+      "email": "pencil120@mailcom",
+      "password": "911911"
+    },
+    {
+      "id": "df39",
+      "name": "Isha",
+      "email": "Isharajpoot2007@gmail.com",
+      "password": "Queen"
+    },
+    {
+      "id": "87fc",
+      "name": "Isha2",
+      "email": "Isharajpoot2002@gmail.com",
+      "password": "Queen2"
+    },
+    {
+      "id": "b51f",
+      "name": "Deepak pahari",
+      "email": "deepakpaharinew07@gmail.com",
+      "password": "hello"
+    }
+  ]
+}
